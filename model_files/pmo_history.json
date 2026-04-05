@@ -1,0 +1,2189 @@
+{
+  "PMO Agusan": {
+    "region": "Caraga",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 89503.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 63884.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 78663.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 110004.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 115923.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 70809.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 73635.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 70659.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 70564.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 76611.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 75996.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 95589.0
+      }
+    ],
+    "hist_max": 115923.0,
+    "hist_min": 5385.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Bataan/Aurora": {
+    "region": "Central Luzon",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 153433.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 109515.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 134852.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 188690.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 198842.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 121460.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 126539.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 121424.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 121259.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 131827.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 130768.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 164481.0
+      }
+    ],
+    "hist_max": 198842.0,
+    "hist_min": 9174.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Batangas": {
+    "region": "Southern Luzon",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 929123.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 663172.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 816605.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 1131356.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 1192229.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 728255.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 768525.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 737463.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 736462.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 800623.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 794196.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 998941.0
+      }
+    ],
+    "hist_max": 1192229.0,
+    "hist_min": 24455.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Bicol": {
+    "region": "Bicol",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 306866.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 219029.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 269705.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 377771.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 398097.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 243172.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 253792.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 243534.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 243204.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 263998.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 261879.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 329393.0
+      }
+    ],
+    "hist_max": 398097.0,
+    "hist_min": 12780.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Bohol": {
+    "region": "Central Visayas",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 590302.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 421335.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 518817.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 685817.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 722718.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 441462.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 491744.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 471869.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 471227.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 470341.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 466565.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 586848.0
+      }
+    ],
+    "hist_max": 722718.0,
+    "hist_min": 14549.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Cebu": {
+    "region": "Central Visayas",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 502920.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 358965.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 442015.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 618527.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 651807.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 398146.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 414646.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 397887.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 397347.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 431370.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 427907.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 538223.0
+      }
+    ],
+    "hist_max": 651807.0,
+    "hist_min": 39694.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Davao": {
+    "region": "Davao Region",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 247198.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 176440.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 217262.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 303391.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 319715.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 195294.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 203749.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 195514.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 195247.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 212234.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 210530.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 264806.0
+      }
+    ],
+    "hist_max": 319715.0,
+    "hist_min": 9440.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Eastern Leyte/Samar": {
+    "region": "Eastern Visayas",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 112944.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 80615.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 99266.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 138973.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 146450.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 89457.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 92938.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 89182.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 89060.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 96627.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 95851.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 120562.0
+      }
+    ],
+    "hist_max": 146450.0,
+    "hist_min": 6776.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Iloilo": {
+    "region": "Western Visayas",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 434727.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 310292.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 382081.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 534360.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 563112.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 343968.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 357454.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 343006.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 342540.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 372704.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 369712.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 465024.0
+      }
+    ],
+    "hist_max": 563112.0,
+    "hist_min": 22990.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Lanao del Norte/Iligan": {
+    "region": "Northern Mindanao",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 90355.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 64492.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 79413.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 111178.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 117160.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 71566.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 74350.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 71345.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 71249.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 77647.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 77023.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 96880.0
+      }
+    ],
+    "hist_max": 117160.0,
+    "hist_min": 5452.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Marinduque/Quezon": {
+    "region": "Southern Luzon",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 155564.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 111036.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 136725.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 191822.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 202143.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 123475.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 128683.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 123482.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 123315.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 133897.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 132822.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 167065.0
+      }
+    ],
+    "hist_max": 202143.0,
+    "hist_min": 9284.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Masbate": {
+    "region": "Bicol",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 136385.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 97346.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 119869.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 167550.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 176565.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 107853.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 112240.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 107704.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 107558.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 116988.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 116048.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 145966.0
+      }
+    ],
+    "hist_max": 176565.0,
+    "hist_min": 7647.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Mindoro": {
+    "region": "Southern Luzon",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 690449.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 492816.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 606835.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 853410.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 899329.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 549341.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 568351.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 545380.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 544639.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 590114.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 585377.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 736289.0
+      }
+    ],
+    "hist_max": 1227959.0,
+    "hist_min": 15270.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Misamis Occidental/Ozamiz": {
+    "region": "Northern Mindanao",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 104420.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 74531.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 91774.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 128403.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 135312.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 82653.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 86146.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 82665.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 82552.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 89725.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 89005.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 111950.0
+      }
+    ],
+    "hist_max": 135312.0,
+    "hist_min": 5803.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Misamis Oriental/Cagayan De Oro": {
+    "region": "Northern Mindanao",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 221626.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 158188.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 194786.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 272073.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 286713.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 175134.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 182301.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 174933.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 174696.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 189803.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 188279.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 236818.0
+      }
+    ],
+    "hist_max": 286713.0,
+    "hist_min": 13282.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO NCR-North": {
+    "region": "National Capital Region",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 259984.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 185566.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 228500.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 319050.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 336217.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 205373.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 214472.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 205804.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 205524.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 222587.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 220800.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 277723.0
+      }
+    ],
+    "hist_max": 336217.0,
+    "hist_min": 14790.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO NCR-South": {
+    "region": "National Capital Region",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 266377.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 190130.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 234118.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 326880.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 344468.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 210412.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 219834.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 210949.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 210662.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 227763.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 225935.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 284182.0
+      }
+    ],
+    "hist_max": 344468.0,
+    "hist_min": 14956.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Negros Occidental/Bacolod": {
+    "region": "Western Visayas",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 417679.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 298123.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 367098.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 512829.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 540422.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 330109.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 343155.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 329286.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 328839.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 357174.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 354307.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 445649.0
+      }
+    ],
+    "hist_max": 540422.0,
+    "hist_min": 15746.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Negros Oriental/Siquijor": {
+    "region": "Central Visayas",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 379321.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 270745.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 333384.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 465852.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 490918.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 299870.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 310985.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 298415.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 298010.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 324390.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 321786.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 404744.0
+      }
+    ],
+    "hist_max": 490918.0,
+    "hist_min": 11100.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Northern Luzon": {
+    "region": "Northern Luzon",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 193922.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 138414.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 170439.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 238798.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 251647.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 153715.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 159782.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 153324.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 153115.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 166336.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 165001.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 207539.0
+      }
+    ],
+    "hist_max": 251647.0,
+    "hist_min": 11310.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Palawan": {
+    "region": "MIMAROPA",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 144909.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 103431.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 127360.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 178120.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 187704.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 114656.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 119389.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 114564.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 114409.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 124235.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 123237.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 155008.0
+      }
+    ],
+    "hist_max": 187704.0,
+    "hist_min": 8510.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Panay/Guimaras": {
+    "region": "Western Visayas",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 617995.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 441101.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 543154.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 759457.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 800320.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 488863.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 507584.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 487069.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 486407.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 527997.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 523758.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 658785.0
+      }
+    ],
+    "hist_max": 800320.0,
+    "hist_min": 16659.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Socsargen": {
+    "region": "Central Mindanao",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 138516.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 98867.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 121742.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 170291.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 179453.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 109616.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 114385.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 109762.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 109613.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 119058.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 118102.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 148550.0
+      }
+    ],
+    "hist_max": 179453.0,
+    "hist_min": 8026.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Surigao": {
+    "region": "Caraga",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 104420.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 74531.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 91774.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 128403.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 135312.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 82653.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 86146.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 82665.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 82552.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 89725.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 89005.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 111950.0
+      }
+    ],
+    "hist_max": 135312.0,
+    "hist_min": 5911.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Western Leyte/Biliran": {
+    "region": "Eastern Visayas",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 125730.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 89741.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 110504.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 154632.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 162952.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 99536.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 103662.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 99472.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 99336.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 108015.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 107148.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 134771.0
+      }
+    ],
+    "hist_max": 162952.0,
+    "hist_min": 7054.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Zamboanga": {
+    "region": "Zamboanga Peninsula",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 132123.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 94304.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 116123.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 162461.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 171202.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 104577.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 109023.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 104617.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 104475.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 113537.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 112625.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 141660.0
+      }
+    ],
+    "hist_max": 171202.0,
+    "hist_min": 7548.0,
+    "last_year": 2025,
+    "last_month": 12
+  },
+  "PMO Zamboanga del Norte": {
+    "region": "Zamboanga Peninsula",
+    "history": [
+      {
+        "Year": 2025,
+        "Month": "Jan",
+        "Month_num": 1,
+        "Total": 83110.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Feb",
+        "Month_num": 2,
+        "Total": 59320.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Mar",
+        "Month_num": 3,
+        "Total": 73045.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Apr",
+        "Month_num": 4,
+        "Total": 102174.0
+      },
+      {
+        "Year": 2025,
+        "Month": "May",
+        "Month_num": 5,
+        "Total": 107672.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jun",
+        "Month_num": 6,
+        "Total": 65770.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Jul",
+        "Month_num": 7,
+        "Total": 68631.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Aug",
+        "Month_num": 8,
+        "Total": 65857.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Sep",
+        "Month_num": 9,
+        "Total": 65768.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Oct",
+        "Month_num": 10,
+        "Total": 71435.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Nov",
+        "Month_num": 11,
+        "Total": 70861.0
+      },
+      {
+        "Year": 2025,
+        "Month": "Dec",
+        "Month_num": 12,
+        "Total": 89130.0
+      }
+    ],
+    "hist_max": 107672.0,
+    "hist_min": 4777.0,
+    "last_year": 2025,
+    "last_month": 12
+  }
+}

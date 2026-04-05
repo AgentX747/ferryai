@@ -1,0 +1,218 @@
+[
+  {
+    "year": 2026,
+    "month": "Jan",
+    "month_num": 1,
+    "date": "2026-01-01",
+    "predicted": 8026917,
+    "lower": 6153521,
+    "upper": 9900313
+  },
+  {
+    "year": 2026,
+    "month": "Feb",
+    "month_num": 2,
+    "date": "2026-02-01",
+    "predicted": 6589224,
+    "lower": 5051370,
+    "upper": 8127078
+  },
+  {
+    "year": 2026,
+    "month": "Mar",
+    "month_num": 3,
+    "date": "2026-03-01",
+    "predicted": 7552426,
+    "lower": 5789771,
+    "upper": 9315081
+  },
+  {
+    "year": 2026,
+    "month": "Apr",
+    "month_num": 4,
+    "date": "2026-04-01",
+    "predicted": 9371970,
+    "lower": 7184653,
+    "upper": 11559287
+  },
+  {
+    "year": 2026,
+    "month": "May",
+    "month_num": 5,
+    "date": "2026-05-01",
+    "predicted": 9098677,
+    "lower": 6975144,
+    "upper": 11222210
+  },
+  {
+    "year": 2026,
+    "month": "Jun",
+    "month_num": 6,
+    "date": "2026-06-01",
+    "predicted": 6856793,
+    "lower": 5256492,
+    "upper": 8457094
+  },
+  {
+    "year": 2026,
+    "month": "Jul",
+    "month_num": 7,
+    "date": "2026-07-01",
+    "predicted": 6872949,
+    "lower": 5268877,
+    "upper": 8477021
+  },
+  {
+    "year": 2026,
+    "month": "Aug",
+    "month_num": 8,
+    "date": "2026-08-01",
+    "predicted": 6847212,
+    "lower": 5249147,
+    "upper": 8445277
+  },
+  {
+    "year": 2026,
+    "month": "Sep",
+    "month_num": 9,
+    "date": "2026-09-01",
+    "predicted": 6863454,
+    "lower": 5261598,
+    "upper": 8465310
+  },
+  {
+    "year": 2026,
+    "month": "Oct",
+    "month_num": 10,
+    "date": "2026-10-01",
+    "predicted": 7366731,
+    "lower": 5647416,
+    "upper": 9086046
+  },
+  {
+    "year": 2026,
+    "month": "Nov",
+    "month_num": 11,
+    "date": "2026-11-01",
+    "predicted": 7488509,
+    "lower": 5740772,
+    "upper": 9236246
+  },
+  {
+    "year": 2026,
+    "month": "Dec",
+    "month_num": 12,
+    "date": "2026-12-01",
+    "predicted": 8178824,
+    "lower": 6269975,
+    "upper": 10087673
+  },
+  {
+    "year": 2027,
+    "month": "Jan",
+    "month_num": 1,
+    "date": "2027-01-01",
+    "predicted": 7834459,
+    "lower": 6005981,
+    "upper": 9662937
+  },
+  {
+    "year": 2027,
+    "month": "Feb",
+    "month_num": 2,
+    "date": "2027-02-01",
+    "predicted": 7605423,
+    "lower": 5830399,
+    "upper": 9380447
+  },
+  {
+    "year": 2027,
+    "month": "Mar",
+    "month_num": 3,
+    "date": "2027-03-01",
+    "predicted": 7955991,
+    "lower": 6099149,
+    "upper": 9812833
+  },
+  {
+    "year": 2027,
+    "month": "Apr",
+    "month_num": 4,
+    "date": "2027-04-01",
+    "predicted": 8550403,
+    "lower": 6554831,
+    "upper": 10545975
+  },
+  {
+    "year": 2027,
+    "month": "May",
+    "month_num": 5,
+    "date": "2027-05-01",
+    "predicted": 8083701,
+    "lower": 6197052,
+    "upper": 9970350
+  },
+  {
+    "year": 2027,
+    "month": "Jun",
+    "month_num": 6,
+    "date": "2027-06-01",
+    "predicted": 7333924,
+    "lower": 5622265,
+    "upper": 9045583
+  },
+  {
+    "year": 2027,
+    "month": "Jul",
+    "month_num": 7,
+    "date": "2027-07-01",
+    "predicted": 7295964,
+    "lower": 5593165,
+    "upper": 8998763
+  },
+  {
+    "year": 2027,
+    "month": "Aug",
+    "month_num": 8,
+    "date": "2027-08-01",
+    "predicted": 7450294,
+    "lower": 5711476,
+    "upper": 9189112
+  },
+  {
+    "year": 2027,
+    "month": "Sep",
+    "month_num": 9,
+    "date": "2027-09-01",
+    "predicted": 7514251,
+    "lower": 5760506,
+    "upper": 9267996
+  },
+  {
+    "year": 2027,
+    "month": "Oct",
+    "month_num": 10,
+    "date": "2027-10-01",
+    "predicted": 7854795,
+    "lower": 6021571,
+    "upper": 9688019
+  },
+  {
+    "year": 2027,
+    "month": "Nov",
+    "month_num": 11,
+    "date": "2027-11-01",
+    "predicted": 7983521,
+    "lower": 6120253,
+    "upper": 9846789
+  },
+  {
+    "year": 2027,
+    "month": "Dec",
+    "month_num": 12,
+    "date": "2027-12-01",
+    "predicted": 8038540,
+    "lower": 6162432,
+    "upper": 9914648
+  }
+]

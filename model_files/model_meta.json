@@ -1,0 +1,99 @@
+{
+  "model_version": "v5",
+  "pmo_list": [
+    "PMO Agusan",
+    "PMO Bataan/Aurora",
+    "PMO Batangas",
+    "PMO Bicol",
+    "PMO Bohol",
+    "PMO Cebu",
+    "PMO Davao",
+    "PMO Eastern Leyte/Samar",
+    "PMO Iloilo",
+    "PMO Lanao del Norte/Iligan",
+    "PMO Marinduque/Quezon",
+    "PMO Masbate",
+    "PMO Mindoro",
+    "PMO Misamis Occidental/Ozamiz",
+    "PMO Misamis Oriental/Cagayan De Oro",
+    "PMO NCR-North",
+    "PMO NCR-South",
+    "PMO Negros Occidental/Bacolod",
+    "PMO Negros Oriental/Siquijor",
+    "PMO Northern Luzon",
+    "PMO Palawan",
+    "PMO Panay/Guimaras",
+    "PMO Socsargen",
+    "PMO Surigao",
+    "PMO Western Leyte/Biliran",
+    "PMO Zamboanga",
+    "PMO Zamboanga del Norte"
+  ],
+  "region_list": [
+    "Bicol",
+    "Caraga",
+    "Central Luzon",
+    "Central Mindanao",
+    "Central Visayas",
+    "Davao Region",
+    "Eastern Visayas",
+    "MIMAROPA",
+    "National Capital Region",
+    "Northern Luzon",
+    "Northern Mindanao",
+    "Southern Luzon",
+    "Western Visayas",
+    "Zamboanga Peninsula"
+  ],
+  "mean_mape": 0.2334,
+  "mean_mape_pct": 23.3,
+  "accuracy_pct": 76.7,
+  "avg_rounds": 597,
+  "features_count": 33,
+  "fuel_features": 10,
+  "oil_features": 3,
+  "training_rows": 1560,
+  "training_years": "2016-2025",
+  "forecast_months": 24,
+  "best_params": {
+    "colsample_bytree": 0.7,
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "min_child_weight": 5,
+    "n_estimators": 800,
+    "reg_alpha": 0.5,
+    "reg_lambda": 1.0,
+    "subsample": 0.7
+  },
+  "fold_results": [
+    {
+      "fold": 1,
+      "mape": 20.3,
+      "accuracy": 79.7
+    },
+    {
+      "fold": 2,
+      "mape": 21.4,
+      "accuracy": 78.6
+    },
+    {
+      "fold": 3,
+      "mape": 15.1,
+      "accuracy": 84.9
+    },
+    {
+      "fold": 4,
+      "mape": 27.0,
+      "accuracy": 73.0
+    },
+    {
+      "fold": 5,
+      "mape": 32.9,
+      "accuracy": 67.1
+    }
+  ],
+  "national_forecast": {
+    "2026": 91113686,
+    "2027": 93501266
+  }
+}

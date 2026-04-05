@@ -1,0 +1,617 @@
+{
+  "2016_Jan": {
+    "Brent_vs_trend": 0.6039479021136566,
+    "Brent_YoY": -0.3678177186527478,
+    "Oil_Shock_Flag": 0
+  },
+  "2016_Feb": {
+    "Brent_vs_trend": 0.6556249413090393,
+    "Brent_YoY": -0.4336557766015696,
+    "Oil_Shock_Flag": 0
+  },
+  "2016_Mar": {
+    "Brent_vs_trend": 0.8110632443977845,
+    "Brent_YoY": -0.2931600201918668,
+    "Oil_Shock_Flag": 1
+  },
+  "2016_Apr": {
+    "Brent_vs_trend": 0.91288114499066,
+    "Brent_YoY": -0.2918380351039386,
+    "Oil_Shock_Flag": 0
+  },
+  "2016_May": {
+    "Brent_vs_trend": 1.0619216716219262,
+    "Brent_YoY": -0.2650917235494739,
+    "Oil_Shock_Flag": 0
+  },
+  "2016_Jun": {
+    "Brent_vs_trend": 1.1320799509374708,
+    "Brent_YoY": -0.2221618094823715,
+    "Oil_Shock_Flag": 0
+  },
+  "2016_Jul": {
+    "Brent_vs_trend": 1.0691685904468993,
+    "Brent_YoY": -0.1879523984786529,
+    "Oil_Shock_Flag": 0
+  },
+  "2016_Aug": {
+    "Brent_vs_trend": 1.0891293356255014,
+    "Brent_YoY": -0.0178011235134603,
+    "Oil_Shock_Flag": 0
+  },
+  "2016_Sep": {
+    "Brent_vs_trend": 1.0959152226216229,
+    "Brent_YoY": -0.0267214059349611,
+    "Oil_Shock_Flag": 0
+  },
+  "2016_Oct": {
+    "Brent_vs_trend": 1.193663606094158,
+    "Brent_YoY": 0.049762192091854,
+    "Oil_Shock_Flag": 0
+  },
+  "2016_Nov": {
+    "Brent_vs_trend": 1.0912671037914583,
+    "Brent_YoY": 0.0497912478739022,
+    "Oil_Shock_Flag": 0
+  },
+  "2016_Dec": {
+    "Brent_vs_trend": 1.2290962413137398,
+    "Brent_YoY": 0.4387531899381551,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Jan": {
+    "Brent_vs_trend": 1.1963092034278622,
+    "Brent_YoY": 0.7995298858294158,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Feb": {
+    "Brent_vs_trend": 1.1628938031533187,
+    "Brent_YoY": 0.7516381995916854,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Mar": {
+    "Brent_vs_trend": 1.0633660608592022,
+    "Brent_YoY": 0.3632387073735938,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Apr": {
+    "Brent_vs_trend": 1.0684585448006845,
+    "Brent_YoY": 0.2800817995909204,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_May": {
+    "Brent_vs_trend": 1.0151065597395266,
+    "Brent_YoY": 0.0861330817791099,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Jun": {
+    "Brent_vs_trend": 0.9417124207449548,
+    "Brent_YoY": -0.0318747378722192,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Jul": {
+    "Brent_vs_trend": 0.9663073231726702,
+    "Brent_YoY": 0.0799969783955221,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Aug": {
+    "Brent_vs_trend": 1.0040767091463092,
+    "Brent_YoY": 0.1129020277796841,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Sep": {
+    "Brent_vs_trend": 1.0506068188582558,
+    "Brent_YoY": 0.1755346703175591,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Oct": {
+    "Brent_vs_trend": 1.079650076996184,
+    "Brent_YoY": 0.1141466053557691,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Nov": {
+    "Brent_vs_trend": 1.150548184804363,
+    "Brent_YoY": 0.3242009132419354,
+    "Oil_Shock_Flag": 0
+  },
+  "2017_Dec": {
+    "Brent_vs_trend": 1.1587286557460648,
+    "Brent_YoY": 0.162802483213037,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Jan": {
+    "Brent_vs_trend": 1.2296520173914685,
+    "Brent_YoY": 0.2358026995086768,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Feb": {
+    "Brent_vs_trend": 1.1619104775176667,
+    "Brent_YoY": 0.1675456887036164,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Mar": {
+    "Brent_vs_trend": 1.151545363908329,
+    "Brent_YoY": 0.2605592299130548,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Apr": {
+    "Brent_vs_trend": 1.2046169785347796,
+    "Brent_YoY": 0.3188063135024805,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_May": {
+    "Brent_vs_trend": 1.2431130966376558,
+    "Brent_YoY": 0.4717397113843851,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Jun": {
+    "Brent_vs_trend": 1.1756997726788494,
+    "Brent_YoY": 0.559061371841115,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Jul": {
+    "Brent_vs_trend": 1.1478920209218664,
+    "Brent_YoY": 0.5247954116247797,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Aug": {
+    "Brent_vs_trend": 1.0924785901518363,
+    "Brent_YoY": 0.4232797170126425,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Sep": {
+    "Brent_vs_trend": 1.1259368697138423,
+    "Brent_YoY": 0.4232924142271954,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Oct": {
+    "Brent_vs_trend": 1.1160062059603473,
+    "Brent_YoY": 0.3970623937849598,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Nov": {
+    "Brent_vs_trend": 0.9037986616657404,
+    "Brent_YoY": 0.0397664071191345,
+    "Oil_Shock_Flag": 0
+  },
+  "2018_Dec": {
+    "Brent_vs_trend": 0.7894948608215273,
+    "Brent_YoY": -0.1181085203748573,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Jan": {
+    "Brent_vs_trend": 0.8377269100748781,
+    "Brent_YoY": -0.1456110328166827,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Feb": {
+    "Brent_vs_trend": 0.907696114823014,
+    "Brent_YoY": -0.0366635150751655,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Mar": {
+    "Brent_vs_trend": 0.9475378178307544,
+    "Brent_YoY": -0.0059220779220775,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Apr": {
+    "Brent_vs_trend": 1.0189655812878844,
+    "Brent_YoY": -0.0031495299931196,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_May": {
+    "Brent_vs_trend": 1.0012401061996443,
+    "Brent_YoY": -0.0898361251078578,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Jun": {
+    "Brent_vs_trend": 0.9091393146464838,
+    "Brent_YoY": -0.1697309313203737,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Jul": {
+    "Brent_vs_trend": 0.9487139917695988,
+    "Brent_YoY": -0.1539908256880663,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Aug": {
+    "Brent_vs_trend": 0.9055902571797428,
+    "Brent_YoY": -0.1886987104337251,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Sep": {
+    "Brent_vs_trend": 0.9620981131403508,
+    "Brent_YoY": -0.2033261090715734,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Oct": {
+    "Brent_vs_trend": 0.9422409892926612,
+    "Brent_YoY": -0.2535407072726451,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Nov": {
+    "Brent_vs_trend": 0.9963482077809748,
+    "Brent_YoY": -0.0307033966302203,
+    "Oil_Shock_Flag": 0
+  },
+  "2019_Dec": {
+    "Brent_vs_trend": 1.0316872260445524,
+    "Brent_YoY": 0.174079565109896,
+    "Oil_Shock_Flag": 0
+  },
+  "2020_Jan": {
+    "Brent_vs_trend": 0.9967472369485711,
+    "Brent_YoY": 0.0891310751105796,
+    "Oil_Shock_Flag": 0
+  },
+  "2020_Feb": {
+    "Brent_vs_trend": 0.8719783512831729,
+    "Brent_YoY": -0.1273718647763428,
+    "Oil_Shock_Flag": 0
+  },
+  "2020_Mar": {
+    "Brent_vs_trend": 0.5500429380031625,
+    "Brent_YoY": -0.4951400501673026,
+    "Oil_Shock_Flag": 1
+  },
+  "2020_Apr": {
+    "Brent_vs_trend": 0.3855090606536552,
+    "Brent_YoY": -0.6931414961357754,
+    "Oil_Shock_Flag": 1
+  },
+  "2020_May": {
+    "Brent_vs_trend": 0.5893529769955822,
+    "Brent_YoY": -0.5454364089775334,
+    "Oil_Shock_Flag": 1
+  },
+  "2020_Jun": {
+    "Brent_vs_trend": 0.791410837855678,
+    "Brent_YoY": -0.3397478804104752,
+    "Oil_Shock_Flag": 1
+  },
+  "2020_Jul": {
+    "Brent_vs_trend": 0.872053852665355,
+    "Brent_YoY": -0.3157295450848388,
+    "Oil_Shock_Flag": 0
+  },
+  "2020_Aug": {
+    "Brent_vs_trend": 0.923283999740186,
+    "Brent_YoY": -0.2466909427201318,
+    "Oil_Shock_Flag": 0
+  },
+  "2020_Sep": {
+    "Brent_vs_trend": 0.893554580026736,
+    "Brent_YoY": -0.3238396624472019,
+    "Oil_Shock_Flag": 0
+  },
+  "2020_Oct": {
+    "Brent_vs_trend": 0.9071274298056152,
+    "Brent_YoY": -0.3033407053893204,
+    "Oil_Shock_Flag": 0
+  },
+  "2020_Nov": {
+    "Brent_vs_trend": 0.9959193282585734,
+    "Brent_YoY": -0.2996523370675072,
+    "Oil_Shock_Flag": 0
+  },
+  "2020_Dec": {
+    "Brent_vs_trend": 1.1810298394916086,
+    "Brent_YoY": -0.230874460696529,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Jan": {
+    "Brent_vs_trend": 1.3206315314019752,
+    "Brent_YoY": -0.1301925573345883,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Feb": {
+    "Brent_vs_trend": 1.4681901575652312,
+    "Brent_YoY": 0.1334041489626261,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Mar": {
+    "Brent_vs_trend": 1.4567146769449326,
+    "Brent_YoY": 0.98209295104047,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Apr": {
+    "Brent_vs_trend": 1.330585499894314,
+    "Brent_YoY": 1.9914462220818927,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_May": {
+    "Brent_vs_trend": 1.3197734123960647,
+    "Brent_YoY": 1.1856484529295592,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Jun": {
+    "Brent_vs_trend": 1.3545952857576573,
+    "Brent_YoY": 0.819802314775465,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Jul": {
+    "Brent_vs_trend": 1.3178414614043252,
+    "Brent_YoY": 0.7420760697303692,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Aug": {
+    "Brent_vs_trend": 1.1929669229807542,
+    "Brent_YoY": 0.5852067827823666,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Sep": {
+    "Brent_vs_trend": 1.2050818699736692,
+    "Brent_YoY": 0.7932506773953698,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Oct": {
+    "Brent_vs_trend": 1.283755127581142,
+    "Brent_YoY": 1.0567251461987466,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Nov": {
+    "Brent_vs_trend": 1.19173860454333,
+    "Brent_YoY": 0.8891340319914023,
+    "Oil_Shock_Flag": 0
+  },
+  "2021_Dec": {
+    "Brent_vs_trend": 1.054959904123859,
+    "Brent_YoY": 0.4954166096592902,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_Jan": {
+    "Brent_vs_trend": 1.1721170596200223,
+    "Brent_YoY": 0.5655742802065522,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_Feb": {
+    "Brent_vs_trend": 1.2580872930777076,
+    "Brent_YoY": 0.5471084403771183,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_Mar": {
+    "Brent_vs_trend": 1.4336157141187276,
+    "Brent_YoY": 0.760875241527025,
+    "Oil_Shock_Flag": 1
+  },
+  "2022_Apr": {
+    "Brent_vs_trend": 1.2646425392856535,
+    "Brent_YoY": 0.6427852793221605,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_May": {
+    "Brent_vs_trend": 1.2889743114433008,
+    "Brent_YoY": 0.6580823293173192,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_Jun": {
+    "Brent_vs_trend": 1.3099473503847432,
+    "Brent_YoY": 0.6266654287174052,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_Jul": {
+    "Brent_vs_trend": 1.1445254591110847,
+    "Brent_YoY": 0.4339322265181002,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_Aug": {
+    "Brent_vs_trend": 1.0202030342937471,
+    "Brent_YoY": 0.3936108422070479,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_Sep": {
+    "Brent_vs_trend": 0.925147398103053,
+    "Brent_YoY": 0.2118131868131869,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_Oct": {
+    "Brent_vs_trend": 0.9404483365966416,
+    "Brent_YoY": 0.1006945854828424,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_Nov": {
+    "Brent_vs_trend": 0.9038835648913408,
+    "Brent_YoY": 0.093347236704897,
+    "Oil_Shock_Flag": 0
+  },
+  "2022_Dec": {
+    "Brent_vs_trend": 0.8039706492355103,
+    "Brent_YoY": 0.0713632204940497,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Jan": {
+    "Brent_vs_trend": 0.8306055458635547,
+    "Brent_YoY": -0.0418255481410868,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Feb": {
+    "Brent_vs_trend": 0.8385806545243077,
+    "Brent_YoY": -0.1420731924598275,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Mar": {
+    "Brent_vs_trend": 0.824885842012503,
+    "Brent_YoY": -0.3196120881402675,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Apr": {
+    "Brent_vs_trend": 0.9065357201751654,
+    "Brent_YoY": -0.2026173285198299,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_May": {
+    "Brent_vs_trend": 0.8426563930905664,
+    "Brent_YoY": -0.3267431650973894,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Jun": {
+    "Brent_vs_trend": 0.8687094256098817,
+    "Brent_YoY": -0.3727454337899829,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Jul": {
+    "Brent_vs_trend": 0.9613258547766772,
+    "Brent_YoY": -0.2483743061062728,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Aug": {
+    "Brent_vs_trend": 1.0431023073189798,
+    "Brent_YoY": -0.1172096415671061,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Sep": {
+    "Brent_vs_trend": 1.1307463821204369,
+    "Brent_YoY": 0.0453411924733619,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Oct": {
+    "Brent_vs_trend": 1.09367959911529,
+    "Brent_YoY": -0.0137611631854743,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Nov": {
+    "Brent_vs_trend": 1.0049786445692253,
+    "Brent_YoY": -0.0689238164270373,
+    "Oil_Shock_Flag": 0
+  },
+  "2023_Dec": {
+    "Brent_vs_trend": 0.9376346009311162,
+    "Brent_YoY": -0.0300683176772831,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Jan": {
+    "Brent_vs_trend": 0.9645435378917766,
+    "Brent_YoY": -0.0340463458110931,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Feb": {
+    "Brent_vs_trend": 0.999948963335008,
+    "Brent_YoY": 0.0036717062635405,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Mar": {
+    "Brent_vs_trend": 1.0296296625955326,
+    "Brent_YoY": 0.0924810391422759,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Apr": {
+    "Brent_vs_trend": 1.0785162915662732,
+    "Brent_YoY": 0.0673215296304876,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_May": {
+    "Brent_vs_trend": 0.990643684250376,
+    "Brent_YoY": 0.0987768134191258,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Jun": {
+    "Brent_vs_trend": 0.979837018947658,
+    "Brent_YoY": 0.1083989262478324,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Jul": {
+    "Brent_vs_trend": 1.0003167173003205,
+    "Brent_YoY": 0.0541295631990739,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Aug": {
+    "Brent_vs_trend": 0.9448365273522796,
+    "Brent_YoY": -0.0779390415189291,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Sep": {
+    "Brent_vs_trend": 0.8937701865440286,
+    "Brent_YoY": -0.2146569796862937,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Oct": {
+    "Brent_vs_trend": 0.9272647690825868,
+    "Brent_YoY": -0.1696495055210206,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Nov": {
+    "Brent_vs_trend": 0.9148788299675706,
+    "Brent_YoY": -0.1113974670473654,
+    "Oil_Shock_Flag": 0
+  },
+  "2024_Dec": {
+    "Brent_vs_trend": 0.9184247608147544,
+    "Brent_YoY": -0.0450127224222366,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Jan": {
+    "Brent_vs_trend": 0.8684374651211078,
+    "Brent_YoY": -0.1290335039932334,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Feb": {
+    "Brent_vs_trend": 0.8607713965819886,
+    "Brent_YoY": -0.1804886527288076,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Mar": {
+    "Brent_vs_trend": 0.9044106596097652,
+    "Brent_YoY": -0.1836799834023235,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Apr": {
+    "Brent_vs_trend": 0.8588210512916423,
+    "Brent_YoY": -0.2845239628229427,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_May": {
+    "Brent_vs_trend": 0.8497986839098742,
+    "Brent_YoY": -0.2528700349929399,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Jun": {
+    "Brent_vs_trend": 0.962647256311878,
+    "Brent_YoY": -0.1643371713564435,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Jul": {
+    "Brent_vs_trend": 0.9686743386398536,
+    "Brent_YoY": -0.1956392928063867,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Aug": {
+    "Brent_vs_trend": 0.9445915314653354,
+    "Brent_YoY": -0.1780699171797596,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Sep": {
+    "Brent_vs_trend": 0.9446168211170756,
+    "Brent_YoY": -0.123084782738726,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Oct": {
+    "Brent_vs_trend": 0.9088356074543148,
+    "Brent_YoY": -0.1881917156350631,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Nov": {
+    "Brent_vs_trend": 0.9147094228454292,
+    "Brent_YoY": -0.1774985590778477,
+    "Oil_Shock_Flag": 0
+  },
+  "2025_Dec": {
+    "Brent_vs_trend": 0.9082004466559572,
+    "Brent_YoY": -0.1986004895520737,
+    "Oil_Shock_Flag": 0
+  },
+  "2026_Jan": {
+    "Brent_vs_trend": 0.95040101308569,
+    "Brent_YoY": -0.1124907612712491,
+    "Oil_Shock_Flag": 0
+  },
+  "2026_Feb": {
+    "Brent_vs_trend": 1.0226029026885557,
+    "Brent_YoY": -0.0233297985153765,
+    "Oil_Shock_Flag": 0
+  },
+  "2026_Mar": {
+    "Brent_vs_trend": 1.3580355072277048,
+    "Brent_YoY": 0.2879765395894429,
+    "Oil_Shock_Flag": 1
+  }
+}
